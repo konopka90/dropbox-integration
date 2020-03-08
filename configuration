@@ -1,0 +1,11 @@
+# Dropbox configuration
+
+OAUTH_ACCESS_TOKEN=ask.admin.for.token
+
+# Database configuration
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=password
+DB_DATABASE=dbtest
