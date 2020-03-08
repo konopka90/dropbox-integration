@@ -1,6 +1,6 @@
 # Dropbox configuration
 
-OAUTH_ACCESS_TOKEN=ask.admin.for.token
+OAUTH_ACCESS_TOKEN=AAAAAAAAAABBBBBBBBBBBBBCCCCCCCCCCCCC
 
 # Database configuration
 
@@ -9,3 +9,7 @@ DB_PORT=3306
 DB_USER=root
 DB_PASSWORD=password
 DB_DATABASE=dbtest
+
+# Path to directory to compress
+
+PATH_TO_COMPRESS=/home/test/test-directory
